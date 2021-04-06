@@ -6,5 +6,6 @@ Percolation: Algorithms, Part I, week1 (with 100 points!:). Backwash problem sol
 
 Queues: Algorithms, Part I, week2 (with 100 points!:). Implement list for Deque and array for RandomizedQueue. A simple idea was used to reach the timing requirement.
 
+Collinear: Algorithms, Part I, week3 (with 97 points. = =). Find all collinear points in a part of random/given points. Some timing requirements are not reached:(
 
 Take it as you like!
