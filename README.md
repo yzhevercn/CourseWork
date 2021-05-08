@@ -11,5 +11,6 @@ Collinear: Algorithms, Part I, week3 (with 97 points. = =). Find all collinear p
 8puzzle: Algorithms, Part I, week4 (with 100 points). Solve 8-puzzle problem by priority queue. Iterable node was used to output the final solve path. I've also leart how to override comparator and iterator.
 
 KdTrees: Algorithms, Part I, week5 (with points). Implement a 2d-tree to reach geometric requirements. Including contain(), range(), insert() and nearest(). Reduce timing requirment from o(N) to o(lgN + R).
+  Specification: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
 
 Take it as you like!
